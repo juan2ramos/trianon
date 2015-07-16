@@ -1,0 +1,2 @@
+[30-Jun-2015 09:22:42 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/llenitas/public_html/include/Connection.php on line 35
+[30-Jun-2015 10:22:42 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home4/llenitas/public_html/include/excel.php on line 31
