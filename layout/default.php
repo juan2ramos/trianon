@@ -59,7 +59,30 @@
 <body>
 
 <main>
+    <header>
+        <figure class="logo"><img src="images/logo-trianon.png" alt="Trianon"/></figure>
+        <nav>
+            <ul>
+                <li><a href="">Mujer</a></li>
+                <li><a href="">Hombre</a></li>
+                <li><a href="">Tiendas</a></li>
+                <li><a href="">Universo Trianon</a></li>
+                <li><a href="">Ventas corporativas</a></li>
+                <li><a href="">Distribuidores</a></li>
+            </ul>
+        </nav>
+        <div class="network">Siguenos</div>
+    </header>
+
     <?php include $fileName; ?>
+    <footer>
+        <ul>
+            <li><a href="">Suscribete</a></li>
+            <li><a href="">¿Podemos aydarte?</a></li>
+            <li><a href="">Oferta de empleo</a></li>
+            <li><a href="">Contactanos</a></li>
+        </ul>
+    </footer>
 </main>
 
 <!-- JavaScript -->
