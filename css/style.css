@@ -111,6 +111,7 @@ header{
 main{
     margin: auto;
     width: 1080px;
+    height: 100%;
 }
 .owl-item img {
     width: 100%;
@@ -137,8 +138,11 @@ nav li{
 
 footer{
     background: #000000;
+    bottom: -20px;
     color: white;
+    position: absolute;
     text-align: center;
+    width: 1080px;
 }
 footer li{
     display: inline-block;
