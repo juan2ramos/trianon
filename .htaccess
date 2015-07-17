@@ -1,15 +1,7 @@
-location /xxxx/ {
-  set $test "";
- 
-  if ($request_method = POST) {
-    set $test  P;
-  }
- 
-  if ($http_cookie_cccc) {
-    set $test  "${test}C";
-  }
- 
-  if ($test = PC) {
-    #rewrite rule goes here.
-  } 
-}
+ewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+
+RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
