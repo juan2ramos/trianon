@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f9fcd4b-24d6-48c2-aa66-f6cd714368c1" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/llenitasWeb.iml" afterPath="$PROJECT_DIR$/.idea/Trianon.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slide/1.jpg" afterPath="$PROJECT_DIR$/images/slide/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slide/2.jpg" afterPath="$PROJECT_DIR$/images/slide/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slide/3.jpg" afterPath="$PROJECT_DIR$/images/slide/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slide/4.jpg" afterPath="$PROJECT_DIR$/images/slide/4.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="llenitasWeb.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,8 +40,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45886075" vertical-offset="2370" max-vertical-offset="3059">
-              <caret line="140" column="14" selection-start-line="140" selection-start-column="14" selection-end-line="140" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.90743554" vertical-offset="2100" max-vertical-offset="3078">
+              <caret line="142" column="19" selection-start-line="142" selection-start-column="19" selection-end-line="142" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -657,8 +657,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45886075" vertical-offset="2370" max-vertical-offset="3059">
-          <caret line="140" column="14" selection-start-line="140" selection-start-column="14" selection-end-line="140" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.90743554" vertical-offset="2100" max-vertical-offset="3078">
+          <caret line="142" column="19" selection-start-line="142" selection-start-column="19" selection-end-line="142" selection-end-column="19" />
           <folding />
         </state>
       </provider>

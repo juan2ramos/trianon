@@ -101,17 +101,17 @@ main
 ===================================================================*/
 
 header{
-    margin: 20px 0;
+    padding: 20px 0;
     position: relative;
 }
 .logo{
-    width: 120px;
+    width: 80px;
 }
 
 main{
-    margin: auto;
-    width: 1080px;
+    margin: 0 auto;
     height: 100%;
+    max-width: 1080px;
 }
 .owl-item img {
     width: 100%;
@@ -131,15 +131,16 @@ nav li{
 .network{
     bottom: 0;
     color: #000;
-    padding: 5px 0;
+    padding: 25px 0;
     position: absolute;
     right: 0;
 }
 
 footer{
     background: #000000;
-    bottom: -20px;
+    bottom: 0;
     color: white;
+    margin: 10px 0;
     position: absolute;
     text-align: center;
     width: 1080px;
