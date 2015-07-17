@@ -60,6 +60,11 @@
 
 <main>
     <header>
+        <div class="button-nav">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
         <figure class="logo"><img src="images/logo-trianon.png" alt="Trianon"/></figure>
         <nav>
             <ul>
